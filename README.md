@@ -1,5 +1,7 @@
 # Mendix Redis Example
 
+This is an example of a Mendix app that demonstrates the use of Redis with the 'Simple Redis Connector' module.
+
 ### How to test
 
 1. Go to [Redis cloud](https://cloud.redis.io) and create a free Redis database (Choose 'Redis Stack' for type).
