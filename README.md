@@ -16,6 +16,6 @@ This is an example of a Mendix app that demonstrates the use of Redis with the '
 
 6. Create a member.
 
-7. Open the edit page and see if you can see a log with the log node 'SRC'. The value should look like 'SetValue: key member:2:1728314923147 , value {"MemberId":2, ...}
+7. Open the edit page of the created member and see if you can see a log in the console with the log node 'SRC'. The value should look like 'SetValue: key member:2:1728314923147 , value {"MemberId":2, ...}
 
 8. You are all set! :) 
