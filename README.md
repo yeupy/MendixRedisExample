@@ -1,7 +1,6 @@
-# MendixRedisExample
-Mendix Redis Example
+# Mendix Redis Example
 
-How to test
+### How to test
 
 1. Go to [Redis cloud](https://cloud.redis.io) and create a free Redis database (Choose 'Redis Stack' for type).
 
